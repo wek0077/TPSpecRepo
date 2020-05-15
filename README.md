@@ -1,2 +1,0 @@
-# TPSpecRepo
-testing.
